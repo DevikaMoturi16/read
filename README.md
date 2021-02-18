@@ -49,7 +49,7 @@
 **Tables**
 
 Name|Branch|College
-|----|----|------|
+|-----|-----|-----|
 |Devika|cse|vr|
 |sireesha|cse|gec|
 |chihnitha|cse|vr|
