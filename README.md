@@ -47,24 +47,27 @@
 [github](https://github.com/)
 
 **Table**
-|Name|Branch|College|
-|----|------|-------|
-|Devika|cse|vr|
-|sireesha|cse|gec|
-|chihnitha|cse|vr|
-**Code**`
- ~~~
-  def iseven(n):
-    if n % 2 == 0:
-      return True;
-    else:
-      return False;
+Name|Branch|College
+----|------|-------
+Devika|cse|vr
+sireesha|cse|gec
+chihnitha|cse|vr
+
+**Code**
+
 ~~~
-~~Github~~
+   def iseven(n):
+     if n % 2 == 0:
+       return True;
+    else:
+       return False;
+~~~
+
+  ~~Github~~
 
 **Emoji**
 
-:blush:
+ :blush:
 
 - [x] Write the press release
 - [ ] Update the website
