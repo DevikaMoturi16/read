@@ -46,12 +46,13 @@
 **Link**
 [github](https://github.com/)
 
-**Table**
+**Tables**
+
 Name|Branch|College
-----|------|-------
-Devika|cse|vr
-sireesha|cse|gec
-chihnitha|cse|vr
+|----|----|------|
+|Devika|cse|vr|
+|sireesha|cse|gec|
+|chihnitha|cse|vr|
 
 **Code**
 
